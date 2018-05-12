@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34770'
     url: http://www.gutenberg.org/2009/agents/34770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36810#Crying-for-the-Light--Or-Fifty-Years-Ago.-Vol.-3--of-3-
 gutenberg_issued: '2011-07-21'
 gutenberg_type: Text
 identifiers:
